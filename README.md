@@ -1,3 +1,7 @@
-### Hi there 👋
+<style>
+  #hola{
+    color: #ccc
+  }
+</style>
 
-<h1 align="center">Hello world!</h1>
+<h1 align="center" id="hola">Hola, soy</h1>
