@@ -1,7 +1,1 @@
-<style>
-  #hola{
-    color: #ccc
-  }
-</style>
-
-<h1 align="center" id="hola">Hola, soy</h1>
+<h1 align="center" style="color:#FF0000">¡Hola!, soy David</h1>
